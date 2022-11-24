@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pg/7TrnHudC4g9+xhM0qX/BT4GHQGedkvEKcF/I5jAPSeb7Se7wWoZV9+hHwaysZ/o8p8X+Zd1DgoTUD68XIdQ==",
+  "success": true,
+  "projectFilePath": "/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Abstract_Factory/Abstract.csproj",
+  "expectedPackageFiles": [
+    "/Users/Max/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/Max/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/Max/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

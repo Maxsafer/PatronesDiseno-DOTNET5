@@ -1,0 +1,15 @@
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/bin/Debug/net7.0/Decorator
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/bin/Debug/net7.0/Decorator.deps.json
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/bin/Debug/net7.0/Decorator.runtimeconfig.json
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/bin/Debug/net7.0/Decorator.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/bin/Debug/net7.0/Decorator.pdb
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/obj/Debug/net7.0/Decorator.csproj.AssemblyReference.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/obj/Debug/net7.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/obj/Debug/net7.0/Decorator.AssemblyInfoInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/obj/Debug/net7.0/Decorator.AssemblyInfo.cs
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/obj/Debug/net7.0/Decorator.csproj.CoreCompileInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/obj/Debug/net7.0/Decorator.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/obj/Debug/net7.0/refint/Decorator.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/obj/Debug/net7.0/Decorator.pdb
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/obj/Debug/net7.0/Decorator.genruntimeconfig.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/Decorator/obj/Debug/net7.0/ref/Decorator.dll

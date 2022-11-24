@@ -1,0 +1,15 @@
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/bin/Debug/net6.0/03.1_Builder
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/bin/Debug/net6.0/03.1_Builder.deps.json
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/bin/Debug/net6.0/03.1_Builder.runtimeconfig.json
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/bin/Debug/net6.0/03.1_Builder.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/bin/Debug/net6.0/03.1_Builder.pdb
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/obj/Debug/net6.0/03.1_Builder.csproj.AssemblyReference.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/obj/Debug/net6.0/03.1_Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/obj/Debug/net6.0/03.1_Builder.AssemblyInfoInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/obj/Debug/net6.0/03.1_Builder.AssemblyInfo.cs
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/obj/Debug/net6.0/03.1_Builder.csproj.CoreCompileInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/obj/Debug/net6.0/03.1_Builder.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/obj/Debug/net6.0/refint/03.1_Builder.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/obj/Debug/net6.0/03.1_Builder.pdb
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/obj/Debug/net6.0/03.1_Builder.genruntimeconfig.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/03.1_Builder/obj/Debug/net6.0/ref/03.1_Builder.dll

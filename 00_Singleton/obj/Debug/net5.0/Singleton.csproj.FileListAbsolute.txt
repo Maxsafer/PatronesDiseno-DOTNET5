@@ -1,0 +1,5 @@
+/home/runner/DOTNET-5/dotnet/clase/00_Singleton/obj/Debug/net5.0/Singleton.csprojAssemblyReference.cache
+/home/runner/DOTNET-5/dotnet/clase/00_Singleton/obj/Debug/net5.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/DOTNET-5/dotnet/clase/00_Singleton/obj/Debug/net5.0/Singleton.AssemblyInfoInputs.cache
+/home/runner/DOTNET-5/dotnet/clase/00_Singleton/obj/Debug/net5.0/Singleton.AssemblyInfo.cs
+/home/runner/DOTNET-5/dotnet/clase/00_Singleton/obj/Debug/net5.0/Singleton.csproj.CoreCompileInputs.cache

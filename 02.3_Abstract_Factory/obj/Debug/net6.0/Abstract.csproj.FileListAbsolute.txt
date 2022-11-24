@@ -1,0 +1,5 @@
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/02.3_Abstract_Factory/obj/Debug/net6.0/Abstract.csproj.AssemblyReference.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/02.3_Abstract_Factory/obj/Debug/net6.0/Abstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/02.3_Abstract_Factory/obj/Debug/net6.0/Abstract.AssemblyInfoInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/02.3_Abstract_Factory/obj/Debug/net6.0/Abstract.AssemblyInfo.cs
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/02.3_Abstract_Factory/obj/Debug/net6.0/Abstract.csproj.CoreCompileInputs.cache

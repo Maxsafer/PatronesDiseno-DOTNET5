@@ -1,0 +1,17 @@
+Singleton:
+Única instancia. Acceso global a esta instancia.
+
+Factory method:
+Proveé una interfaz para la creación de objetos en una superclase, pero permite a las subclases modificar al objeto.
+
+Abstract Factory:
+Familias de objetos relacionados. Sus clases no están especificadas.
+
+Builder:
+Una construcción por pasos en la cual el objeto reutiliza el código de construcción.
+
+Prototype:
+El código no depende de sus clases al momento de copiar objetos existentes.
+
+Adapter:
+Permite a objetos con interfaces incompatibles, colaborar.

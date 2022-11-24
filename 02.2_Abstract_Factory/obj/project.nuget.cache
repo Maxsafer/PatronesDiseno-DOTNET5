@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tqBZVF9b6R3ClRHDYZ0xNEl3zqbScO73jdSiNa+MbXlU/uFreUi0DDR9ReRjJCI3XgEqUBAlolwr0cnn2AFp9g==",
+  "success": true,
+  "projectFilePath": "/Users/Max/Downloads/DOTNET-5/dotnet/clase/02.2_Abstract_Factory/Abstract.csproj",
+  "expectedPackageFiles": [
+    "/Users/Max/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/Max/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/Max/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

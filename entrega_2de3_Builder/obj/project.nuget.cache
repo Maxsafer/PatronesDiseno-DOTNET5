@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pnArirDK/yAI/MSpyzUVqyr1E18YYGP6PA8z+hqdgPllLE66FYVA5ToSe/CwLx+U06+pW4K573nu1TzFg6I+sg==",
+  "success": true,
+  "projectFilePath": "/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Builder/Builder.csproj",
+  "expectedPackageFiles": [
+    "/Users/Max/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/Max/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/Max/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+/home/runner/DOTNET-5/dotnet/clase/02.1_Factory_Method/obj/Debug/net5.0/FactoryMethod.csprojAssemblyReference.cache
+/home/runner/DOTNET-5/dotnet/clase/02.1_Factory_Method/obj/Debug/net5.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/DOTNET-5/dotnet/clase/02.1_Factory_Method/obj/Debug/net5.0/FactoryMethod.AssemblyInfoInputs.cache
+/home/runner/DOTNET-5/dotnet/clase/02.1_Factory_Method/obj/Debug/net5.0/FactoryMethod.AssemblyInfo.cs
+/home/runner/DOTNET-5/dotnet/clase/02.1_Factory_Method/obj/Debug/net5.0/FactoryMethod.csproj.CoreCompileInputs.cache

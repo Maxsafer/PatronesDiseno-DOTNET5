@@ -1,0 +1,15 @@
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/bin/Debug/net7.0/singleton
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/bin/Debug/net7.0/singleton.deps.json
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/bin/Debug/net7.0/singleton.runtimeconfig.json
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/bin/Debug/net7.0/singleton.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/bin/Debug/net7.0/singleton.pdb
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/obj/Debug/net7.0/singleton.csproj.AssemblyReference.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/obj/Debug/net7.0/singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/obj/Debug/net7.0/singleton.AssemblyInfoInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/obj/Debug/net7.0/singleton.AssemblyInfo.cs
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/obj/Debug/net7.0/singleton.csproj.CoreCompileInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/obj/Debug/net7.0/singleton.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/obj/Debug/net7.0/refint/singleton.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/obj/Debug/net7.0/singleton.pdb
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/obj/Debug/net7.0/singleton.genruntimeconfig.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_singleton/obj/Debug/net7.0/ref/singleton.dll

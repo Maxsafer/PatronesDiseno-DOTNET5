@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "entrega_2de_3_FactoryMethod/1.0.0": {
+        "runtime": {
+          "entrega_2de_3_FactoryMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "entrega_2de_3_FactoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/obj/Debug/net7.0/entrega_2de_3_FactoryMethod.csproj.AssemblyReference.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/obj/Debug/net7.0/entrega_2de_3_FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/obj/Debug/net7.0/entrega_2de_3_FactoryMethod.AssemblyInfoInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/obj/Debug/net7.0/entrega_2de_3_FactoryMethod.AssemblyInfo.cs
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/obj/Debug/net7.0/entrega_2de_3_FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/bin/Debug/net7.0/entrega_2de_3_FactoryMethod
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/bin/Debug/net7.0/entrega_2de_3_FactoryMethod.deps.json
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/bin/Debug/net7.0/entrega_2de_3_FactoryMethod.runtimeconfig.json
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/bin/Debug/net7.0/entrega_2de_3_FactoryMethod.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/bin/Debug/net7.0/entrega_2de_3_FactoryMethod.pdb
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/obj/Debug/net7.0/entrega_2de_3_FactoryMethod.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/obj/Debug/net7.0/refint/entrega_2de_3_FactoryMethod.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/obj/Debug/net7.0/entrega_2de_3_FactoryMethod.pdb
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/obj/Debug/net7.0/entrega_2de_3_FactoryMethod.genruntimeconfig.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de_3_FactoryMethod/obj/Debug/net7.0/ref/entrega_2de_3_FactoryMethod.dll

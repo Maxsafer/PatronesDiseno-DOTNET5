@@ -1,0 +1,15 @@
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/bin/Debug/net6.0/entrega_2de3_Prototype
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/bin/Debug/net6.0/entrega_2de3_Prototype.deps.json
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/bin/Debug/net6.0/entrega_2de3_Prototype.runtimeconfig.json
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/bin/Debug/net6.0/entrega_2de3_Prototype.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/bin/Debug/net6.0/entrega_2de3_Prototype.pdb
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/obj/Debug/net6.0/entrega_2de3_Prototype.csproj.AssemblyReference.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/obj/Debug/net6.0/entrega_2de3_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/obj/Debug/net6.0/entrega_2de3_Prototype.AssemblyInfoInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/obj/Debug/net6.0/entrega_2de3_Prototype.AssemblyInfo.cs
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/obj/Debug/net6.0/entrega_2de3_Prototype.csproj.CoreCompileInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/obj/Debug/net6.0/entrega_2de3_Prototype.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/obj/Debug/net6.0/refint/entrega_2de3_Prototype.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/obj/Debug/net6.0/entrega_2de3_Prototype.pdb
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/obj/Debug/net6.0/entrega_2de3_Prototype.genruntimeconfig.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/entrega_2de3_Prototype/obj/Debug/net6.0/ref/entrega_2de3_Prototype.dll

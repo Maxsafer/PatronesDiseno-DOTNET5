@@ -1,0 +1,17 @@
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/bin/Debug/net7.0/05.2_Adapter
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/bin/Debug/net7.0/05.2_Adapter.deps.json
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/bin/Debug/net7.0/05.2_Adapter.runtimeconfig.json
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/bin/Debug/net7.0/05.2_Adapter.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/bin/Debug/net7.0/05.2_Adapter.pdb
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/obj/Debug/net7.0/05.2_Adapter.csproj.AssemblyReference.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/obj/Debug/net7.0/05.2_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/obj/Debug/net7.0/05.2_Adapter.AssemblyInfoInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/obj/Debug/net7.0/05.2_Adapter.AssemblyInfo.cs
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/obj/Debug/net7.0/05.2_Adapter.csproj.CoreCompileInputs.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/obj/Debug/net7.0/05.2_Adapter.csproj.CopyComplete
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/obj/Debug/net7.0/05.2_Adapter.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/obj/Debug/net7.0/refint/05.2_Adapter.dll
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/obj/Debug/net7.0/05.2_Adapter.pdb
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/obj/Debug/net7.0/05.2_Adapter.genruntimeconfig.cache
+/Users/Max/Downloads/DOTNET-5/dotnet/clase/05.2_Adapter/obj/Debug/net7.0/ref/05.2_Adapter.dll
